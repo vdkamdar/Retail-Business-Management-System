@@ -1,10 +1,10 @@
- ## In Oracle SQL, please enter following commands:
+ ## In Oracle SQL, please enter following commands: ##
 
 - start Proj2data
 - start package_declaration
 - start package_definition
 
-## For executing JAVA application:
+## For executing JAVA application: ##
 
 - From inside the 'src' directory: (should have ojdbc6.jar)
 
